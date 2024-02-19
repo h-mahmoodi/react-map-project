@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Hesam",
+      "email": "hesam@gmail.com",
+      "password": "123456",
+      "avatar": "https://i.pravatar.cc/100?u=zz"
+    },
+    {
+      "id": 2,
+      "name": "Yasi",
+      "email": "yasi@gmail.com",
+      "password": "123456",
+      "avatar": "https://i.pravatar.cc/100?u=zz"
+    }
+  ],
+  "cities": [
+    {
+      "cityName": "S̄amarin",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "IR",
+      "date": "2024-01-09T11:50:17.659Z",
+      "notes": "",
+      "position": {
+        "lat": "38.37611542403604",
+        "lng": "48.09814453125"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Bafq",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "IR",
+      "date": "2024-01-09T11:58:06.895Z",
+      "notes": "",
+      "position": {
+        "lat": "31.914867503276223",
+        "lng": "54.88769531250001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Al Salmi",
+      "country": "Kuwait",
+      "emoji": "KW",
+      "date": "2024-01-09T12:00:44.432Z",
+      "notes": "",
+      "position": {
+        "lat": "29.267232865200903",
+        "lng": "47.37304687500001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Riyadh",
+      "country": "Saudi Arabia",
+      "emoji": "SA",
+      "date": "2024-01-09T12:01:24.862Z",
+      "notes": "",
+      "position": {
+        "lat": "24.50714328310284",
+        "lng": "46.99951171875001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Babila",
+      "country": "Syrian Arab Republic (the)",
+      "emoji": "SY",
+      "date": "2024-01-09T12:02:51.065Z",
+      "notes": "",
+      "position": {
+        "lat": "33.4131022137083",
+        "lng": "36.32080078125001"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Township of Bloomfield",
+      "country": "United States of America (the)",
+      "emoji": "US",
+      "date": "2024-01-09T12:48:36.308Z",
+      "notes": "living for ever",
+      "position": {
+        "lat": "39.436192999314095",
+        "lng": "-100.63476562500001"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Bewdley",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "GB",
+      "date": "2024-02-19T19:45:14.967Z",
+      "notes": "",
+      "position": {
+        "lat": "52.36218321674427",
+        "lng": "-2.3071289062500004"
+      },
+      "id": 98443207
+    }
+  ]
+}
